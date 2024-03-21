@@ -212,7 +212,7 @@ function inputDiv() {
               Compile</button>
           </div>
         </form>
-        <Link href="/dashboard">Dashboard</Link>
+        <Link href="/dashboard" className='p-2 bg-white w-fit'>Dashboard</Link>
         
 
       </div>
